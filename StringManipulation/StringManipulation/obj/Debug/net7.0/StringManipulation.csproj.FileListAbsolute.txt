@@ -1,0 +1,15 @@
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\StringManipulation.exe
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\StringManipulation.deps.json
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\StringManipulation.runtimeconfig.json
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\StringManipulation.dll
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\StringManipulation.pdb
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfo.cs
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.dll
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\refint\StringManipulation.dll
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.pdb
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\StringManipulation.genruntimeconfig.cache
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\obj\Debug\net7.0\ref\StringManipulation.dll
+C:\Users\George.DESKTOP-V756KPI\Documents\VS Code tests\Randomtest\StringManipulation\StringManipulation\bin\Debug\net7.0\Files\word.txt
